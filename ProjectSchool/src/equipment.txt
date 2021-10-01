@@ -1,0 +1,108 @@
+Saw
+12
+Locker 1
+2012
+Hand
+true
+Saw
+15
+Locker 2
+2012
+Hack
+true
+Saw
+14
+Locker 2
+2014
+Japanese
+true
+Saw
+1
+Locker 3
+2014
+Coping
+false
+Saw
+2
+Locker 3
+2014
+Coping
+true
+Saw
+12
+Locker 1
+2016
+Japanese
+false
+Saw
+3
+Locker 1
+2016
+Hack
+true
+Saw
+5
+Locker 4
+2016
+Hand
+true
+Saw
+6
+Locker 4
+2019
+Hand
+true
+Drill
+16
+Locker 5
+2019
+false
+true
+Drill
+17
+Locker 5
+2019
+false
+true
+Drill
+18
+Locker 5
+2001
+true
+false
+Saw
+20
+Locker 6
+2001
+Hack
+false
+Saw
+21
+Locker 6
+2001
+Hack
+true
+Saw
+31
+Locker 7
+2021
+Japanese
+false
+Saw
+32
+Locker 7
+2021
+Japanese
+false
+Saw
+33
+Locker 7
+2021
+Japanese
+true
+Saw
+34
+Locker 7
+2018
+Coping
+false
